@@ -1,5 +1,8 @@
 _repo: The-Nuclear-Ship-Savannah-First-Atomic-Merchant-Ship-One-of-the-World-s-Safest-Ships_63584
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63584-h/images/cover.jpg
 creator:
   authors:
   - agent_name: United States. Maritime Administration
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52508
     wikipedia: https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63584#The-Nuclear-Ship-Savannah-First-Atomic-Merchant-Ship-One-of-the-World-s-Safest-Ships
 gutenberg_issued: '2020-10-30'
 gutenberg_type: Text
 identifiers:
