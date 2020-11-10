@@ -1,0 +1,44 @@
+_repo: The-Nuclear-Ship-Savannah-First-Atomic-Merchant-Ship-One-of-the-World-s-Safest-Ships_63584
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: United States. Maritime Administration
+    aliases:
+    - United States. Federal Maritime Administration
+    - United States. Department of Transportation. Maritime Administration
+    - United States. Department of Commerce. Maritime Administration
+    - Marad
+    gutenberg_agent_id: '52475'
+    url: http://www.gutenberg.org/2009/agents/52475
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Maritime_Administration
+  - agent_name: United States. Department of Commerce
+    alias: United States. Commerce Department
+    gutenberg_agent_id: '52483'
+    url: http://www.gutenberg.org/2009/agents/52483
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Department_of_Commerce
+  - agent_name: U.S. Atomic Energy Commission
+    aliases:
+    - AEC
+    - Atomic Energy Commission (U.S.)
+    - USAEC
+    - United States. Atomic Energy Commission
+    gutenberg_agent_id: '52508'
+    url: http://www.gutenberg.org/2009/agents/52508
+    wikipedia: https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission
+description: ''
+gutenberg_issued: '2020-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuclear merchant ships -- United States'
+- !lcsh 'Savannah (Nuclear ship)'
+- !lcc 'VM'
+- GITenberg
+title: "The Nuclear Ship Savannah\r\nFirst Atomic Merchant Ship, One of the World's\
+  \ Safest Ships"
+url: http://www.gutenberg.org/ebooks/63584
